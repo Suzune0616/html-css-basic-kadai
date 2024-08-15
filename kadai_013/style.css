@@ -79,6 +79,7 @@ body{
 #menu-sp{
   float: right;
   padding: 0;
+  display: none;
 }
 
 /*　スマホ用ナビゲーション */
@@ -91,6 +92,7 @@ body{
   width: 100%;
   display: none;
   z-index: 100;
+  display: none;
 }
 
 /* xボタン */
